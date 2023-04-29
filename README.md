@@ -16,9 +16,9 @@ Les principales fonctionnalités de cette application incluent:
 git clone https://github.com/chifaabelmaaza/secured_patient_app.git
 ```
 
-* `Ensuite, vous devez créer une base de données MySQL` appelée *`gestion_patients` et mettre à jour le fichier *`application.properties` avec les informations de connexion à la base de données.
+* `Ensuite, vous devez créer une base de données MySQL` appelée *`gestion_patients` et mettre à jour le fichier * `application.properties` avec les informations de connexion à la base de données.
 
-* `Vous devez également configurer Spring Security` en mettant à jour les fichiers *`SecurityConfig.java` et *`WebSecurityConfig.java` avec les informations d'authentification appropriées.
+* `Vous devez également configurer Spring Security` en mettant à jour les fichiers * `SecurityConfig.java` avec les informations d'authentification appropriées.
 
 * `Enfin, vous pouvez exécuter l'application` en exécutant la commande suivante à la racine du projet:
 
